@@ -4,14 +4,14 @@ import java.util.Date;
 
 /**
  * @ClassName HelloWord
- * @Description µÚÒ»¸öÏîÄ¿
+ * @Description ç¬¬ä¸€ä¸ªé¡¹ç›®
  * @author zhangmingqing
  * @date 2016/4/11 15:27
  */
 public class HelloWord {
     /**
      * @MethodName
-     * @Description ´òÓ¡Ê±¼ä
+     * @Description æ‰“å°æ—¶é—´
      * @author zhangmingqing
      * @date 2016/4/11 15:32
      */
