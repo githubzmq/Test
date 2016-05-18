@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d951e89-7c45-4c27-adfa-14a4b8f511a8" name="Default" comment="">
-      <change type="DELETED" beforePath="F:\GitTest\.idea\.name" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-two-consumer-1/target/classes/com/zhang/HelloWord.class" afterPath="$PROJECT_DIR$/test-two-consumer-1/target/classes/com/zhang/HelloWord.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-two-consumer-1/src/main/java/com/zhang/HelloWord.java" afterPath="$PROJECT_DIR$/test-two-consumer-1/src/main/java/com/zhang/HelloWord.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GitTest.iws" />
@@ -548,7 +546,7 @@
       <workItem from="1463561032117" duration="689000" />
       <workItem from="1463561722134" duration="997000" />
       <workItem from="1463562720666" duration="136000" />
-      <workItem from="1463562857447" duration="3170000" />
+      <workItem from="1463562857447" duration="3191000" />
     </task>
     <task id="LOCAL-00001" summary="2016.5.18新建一个项目">
       <created>1463561488602</created>
@@ -604,11 +602,17 @@
       <option name="project" value="LOCAL" />
       <updated>1463566037074</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="什么鬼">
+      <created>1463566263442</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1463566263442</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6251000" />
+    <option name="totallyTimeSpent" value="6272000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -661,7 +665,8 @@
     <MESSAGE value="增加了个方法&#10;" />
     <MESSAGE value="新增方法gitTest1" />
     <MESSAGE value="新增方法gitTest1----2" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增方法gitTest1----2" />
+    <MESSAGE value="什么鬼" />
+    <option name="LAST_COMMIT_MESSAGE" value="什么鬼" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
