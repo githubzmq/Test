@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d951e89-7c45-4c27-adfa-14a4b8f511a8" name="Default" comment="新增方法gitTest1----2">
-      <change type="DELETED" beforePath="F:\GitTest\.idea\workspace.xml" afterPath="" />
+    <list default="true" id="8d951e89-7c45-4c27-adfa-14a4b8f511a8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GitTest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,8 +31,8 @@
       <file leaf-file-name="HelloWord.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test-two-consumer-1/src/main/java/com/zhang/HelloWord.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7320819">
-              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.61433446">
+              <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
               <folding>
                 <element signature="e#743#744#0" expanded="true" />
                 <element signature="e#798#799#0" expanded="true" />
@@ -545,7 +545,7 @@
       <workItem from="1463561032117" duration="689000" />
       <workItem from="1463561722134" duration="997000" />
       <workItem from="1463562720666" duration="136000" />
-      <workItem from="1463562857447" duration="2916000" />
+      <workItem from="1463562857447" duration="2954000" />
     </task>
     <task id="LOCAL-00001" summary="2016.5.18新建一个项目">
       <created>1463561488602</created>
@@ -589,11 +589,17 @@
       <option name="project" value="LOCAL" />
       <updated>1463565789838</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="新增方法gitTest1----2">
+      <created>1463565994321</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1463565994321</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5997000" />
+    <option name="totallyTimeSpent" value="6035000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -675,8 +681,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test-two-consumer-1/src/main/java/com/zhang/HelloWord.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7320819">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.61433446">
+          <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
           <folding>
             <element signature="e#743#744#0" expanded="true" />
             <element signature="e#798#799#0" expanded="true" />
