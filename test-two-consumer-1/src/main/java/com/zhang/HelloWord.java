@@ -19,4 +19,7 @@ public class HelloWord {
         Date date=new Date();
         System.out.println("HelloWord.main"+date);
     }
+    public void gitTest1(){
+        System.out.println("你好这是我新建的分支");
+    }
 }
